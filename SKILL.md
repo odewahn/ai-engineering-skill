@@ -1,5 +1,5 @@
 ---
-name: ai-engineering-guide
+name: ai-engineering-skill
 description: Practical guide for building production ML systems based on Chip Huyen's AI Engineering book. Use when users ask about model evaluation, deployment strategies, monitoring, data pipelines, feature engineering, cost optimization, or MLOps. Covers metrics, A/B testing, serving patterns, drift detection, and production best practices.
 ---
 
